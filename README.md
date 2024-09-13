@@ -1,10 +1,10 @@
 # Expert-Hive-Tutors-API 🐝📚
  This repository contains the API implementation for the Expert Hive Tutors platform, developed using Django and Django Rest Framework. The APIs support operations for managing client-posted questions and notifying tutors.
 
- Type 1: https://experthivetutors.com/expert-hive-api-type1/
+ Type 1: https://experthivetutors.com/expert-hive-api-type1/  🔗
  ![image](https://github.com/user-attachments/assets/d1ee01c0-ba4b-44a6-a032-6115cfacd8b3)
 
- Type 2: https://experthivetutors.com/expert-hive-api-type2/
+ Type 2: https://experthivetutors.com/expert-hive-api-type2/  🔗
  ![image](https://github.com/user-attachments/assets/58ca211a-43dd-4b6b-85dc-f26d566b6cb5)
 
 
@@ -39,6 +39,3 @@ Detailed API documentation is provided using **Swagger/OpenAPI**. You can explor
 - Comprehensive documentation for API usage.
 - Integration with external services for notifications.
 
-## Repository 🔗
-
-Explore the repository and contribute to the project: [GitHub Repository Link](#)
