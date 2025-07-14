@@ -3,7 +3,7 @@
 This repository contains the **API implementation** for the **Expert Hive Tutors** platform, developed using **Django** and **Django Rest Framework (DRF)**. The APIs support operations for:
 
 - 📌 **Managing client-posted questions**
-- 📌 **Notifying tutors via email and SMS**
+- 📌 **Notifying tutors via email and push**
 
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/Tobijoshua)
 
