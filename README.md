@@ -14,11 +14,6 @@ This repository contains the **API implementation** for the **Expert Hive Tutors
 ### 📌 Type 1 API  
 🔗 **[Explore Type 1 API](https://experthivetutors.com/expert-hive-api-type1/)**  
 ![Type 1 API](https://github.com/user-attachments/assets/d1ee01c0-ba4b-44a6-a032-6115cfacd8b3)
-
-### 📌 Type 2 API  
-🔗 **[Explore Type 2 API](https://experthivetutors.com/expert-hive-api-type2/)**  
-![Type 2 API](https://github.com/user-attachments/assets/58ca211a-43dd-4b6b-85dc-f26d566b6cb5)
-
 ---
 
 ## 🌟 Features
